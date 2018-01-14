@@ -7,14 +7,15 @@
     padding-right: 70px;
     padding-bottom: 80px;
     padding-left: 0px;
-    color: #6a6666 ; 
+    color: #939393 ; 
     font-family: sans serif;
-font-size: 20px;
+font-size: 15px;
 text-align: justify;
 }
 .div2
 {
 	padding-left: 30px;
+    size: 15px
 	padding-bottom: 20px;
 	margin-right: 80px;
 	color: #a7a5a5;
@@ -47,5 +48,28 @@ text-align: justify;
 }
 .formm{
     padding-left: 1px;
-    font-size: 25px;
+    font-size: 2    5px;
+}
+
+
+.hr1{
+
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+}
+.button {
+    background-color: #000203; 
+    border: none;
+    color: white;
+    padding: 5px 70px;
+    text-align: center;
+    margin-left: 0px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1px;
 }
