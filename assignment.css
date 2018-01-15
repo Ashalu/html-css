@@ -109,3 +109,17 @@ div:hover{
   height: 50%;
 }
 
+/*.w3-container{
+line-height: 2px ;
+min-height: 2px 
+width:2 ;   }*/
+
+.w3-light-grey{color:#000!important;background-color:#f1f1f1!important height:1;}
+.w3-grey{color:#000!important;background-color:#9e9e9e!important;height:1   }
+
+.ab{
+    margin-left: 10px;
+}
+.abc{
+    margin-right: 10px;
+}
