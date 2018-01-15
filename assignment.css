@@ -53,6 +53,11 @@ text-align: justify;
      outline: none;
 }
 
+.mar{
+    padding-left: 10px;
+    font-size: 18px;
+    text-align: left;
+}
 
 .hr1{
 
