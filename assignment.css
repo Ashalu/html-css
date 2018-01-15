@@ -48,9 +48,9 @@ text-align: justify;
     margin: 1em 0;
     padding: 0; 
 }
-.formm{
-    padding-left: 1px;
-    font-size: 2    5px;
+.formm:focus{
+    
+     outline: none;
 }
 
 
@@ -103,11 +103,6 @@ image {
   margin-left: auto;
 }
 
-div:hover{
-     opacity: 1;
-  visibility: visible;
-  height: 50%;
-}
 
 /*.w3-container{
 line-height: 2px ;
