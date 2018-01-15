@@ -103,4 +103,9 @@ image {
   margin-left: auto;
 }
 
+div:hover{
+     opacity: 1;
+  visibility: visible;
+  height: 50%;
+}
 
