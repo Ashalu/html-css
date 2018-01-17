@@ -2,14 +2,15 @@
 .div1 {
     
     margin-right: 10px;
-    margin-left: 30px;
+    margin-left:30%;
     padding-top: 60px;
     padding-right: 70px;
+    line-height: 1%
     padding-bottom: 80px;
     padding-left: 0px;
     color: #939393 ; 
     font-family: sans serif;
-font-size: 15px;
+font-size: 13px;
 text-align: justify;
 }
 .div2
@@ -122,4 +123,8 @@ width:2 ;   }*/
 }
 .abc{
     margin-right: 10px;
+}
+
+body{
+  margin:0px;
 }
